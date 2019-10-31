@@ -1,6 +1,6 @@
 # hello-world
-saying hello to the world
+Saying hello to the world of code.
 
-So hello world i am doing this for the first time
+Author: Joy
 
-Just added another line
+
